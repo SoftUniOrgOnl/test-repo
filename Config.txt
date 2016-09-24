@@ -1,0 +1,3 @@
+name = Lyubomir
+size = 180
+email = liubomirwm@students.softuni.bg
